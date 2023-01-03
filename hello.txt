@@ -3,6 +3,7 @@ hello atxian! hello git!
 hello atxian! hello git!
 hello atxian! hello git!
 hello atxian! hello git! master test
+hello atxian! hello git! hot-fix test
 hello atxian! hello git!
 hello atxian! hello git!
 hello atxian! hello git!
